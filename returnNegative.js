@@ -18,3 +18,46 @@ function makeNegative(num) {
    return -Math.abs(num)
 }
 
+/* Task: Return the given number and make it negative 
+
+
+function makeNegative(num){
+    return -Math.abs(num)
+}
+
+function makeNegative(num){
+    return -Math.abs(num)
+}
+
+function makeNegative(num){
+    return -Math.abs(num)
+}
+
+function makeNegative(num){
+    return -Math.abs(num)
+}
+
+
+function makeNegative(num){
+    return -Math.abs(num)
+}
+
+
+function makeNegative(num){
+    return -Math.abs(num)
+}
+
+function makeNgative(num){
+    return -Math.abs(num)
+}
+function makeNegative(num){
+    return -Math.abs(num)
+
+}
+ function makeNegative(num){
+     return -Math.abs(num)
+ }
+
+ fuction makeNegative(num){
+     return -Math.abs(num)
+ } */

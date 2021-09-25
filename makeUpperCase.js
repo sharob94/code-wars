@@ -5,3 +5,60 @@
 function makeUpperCase(str) {
     // Code here
   return (str.toUpperCase())}
+
+
+
+/* 
+
+How to convert a string to Upper Case
+
+
+
+function makeUpperCase(str){
+  return (str.toUpperCase())
+
+}
+
+function makeUpperCase(str){
+  return(str.toUpperCase())
+}
+
+function makeUpperCase(str){
+  return(str.toUpperCase())
+}
+
+function makeUpperCase(str){
+  return(str.toUpperCase())
+}
+
+function makeUpperCase(str){
+  return(str.toUpperCase())
+}
+
+function makeUpperCase(str){
+  return(str.toUpperCase())
+}
+
+
+function makeUpperCase(str){
+  return(str.toUpperCase())
+}
+
+function makeUpperCase(str){
+  return(str.toUpperCase())
+
+}
+
+function makeUpperCase(str){
+  return(str.toUpperCase())
+
+}
+
+
+function makeUpperCase(str){
+  return(str.toUpperCase())
+}
+
+
+*/
+
