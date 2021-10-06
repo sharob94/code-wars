@@ -9,10 +9,16 @@ Examples:
 countBy(1,10) === [1,2,3,4,5,6,7,8,9,10]
 countBy(2,5) === [2,4,6,8,10]
 https://www.codewars.com/kata/5513795bd3fafb56c200049e
+
+given: function countBy(x, n) {
+  let z = [];
+
+  return z;
+}
 */
 
 function countBy(x,n){
-    var z =[],
+    let z =[],
     for (let i = x; z.length < n; i += x){
         z.push(i)
     }

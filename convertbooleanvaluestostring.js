@@ -15,3 +15,46 @@
 function boolToWord( bool ){
     return bool ? 'Yes': 'No';
      }
+
+/*function boolToWord(bool){
+  return bool ? 'Yes': 'No'
+}
+
+function boolToWord(bool){
+  return bool ? 'Yes' : 'No'
+}
+
+function boolToWord(bool){
+  return bool ? 'Yes' : 'No'
+}
+
+function boolToWord(bool){
+  return bool ? 'Yes': 'No'
+}
+
+
+function boolToWord(bool){
+  return bool? 'Yes' : 'No'
+}
+
+function boolToWord(bool){
+  return bool ? 'Yes' : 'No'
+}
+
+function boolToWord(bool){
+  return bool ? 'Yes' : 'NO'
+}
+
+function boolToWord(bool){
+  return bool ? 'Yes' : 'NO'
+}
+
+function boolToWord(bool){
+  return bool ? 'Yes' : 'No'
+}
+
+
+function boolToWord(bool){
+  return bool ? 'Yes' : 'No'}
+
+  */
