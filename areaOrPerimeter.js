@@ -20,3 +20,19 @@ const areaOrPerimeter = function(l , w) {
     }
     
   };
+
+
+  /*
+  
+  So the parameters that I would have are length and width
+  square than I will return a l*w || rectangele than I will return the perimeter which be adding all 4 sides which a pair being equal to each other 
+  (3,3)=> 9
+  (4,5)=> 18
+  conditonal if l and w are equal to each other than return l*w
+  if l*w is not equal to each other than return l+l+w+w
+
+
+  
+  
+  
+  */
