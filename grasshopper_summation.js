@@ -19,4 +19,4 @@ summation(8) -> 36
 
 
 
- const summation = n => n *( n + 1) / 2
+ const summation = n => n *( n + 1) / 2ss
