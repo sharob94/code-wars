@@ -29,4 +29,4 @@ function weatherInfo (temp) {
   function convertToCelsius (temperature) {
     var celsius = (temperature - 32) * (5/9)
     return temperature
-  }
+  }ss
