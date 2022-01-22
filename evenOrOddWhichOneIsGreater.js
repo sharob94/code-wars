@@ -8,4 +8,4 @@ function evenOrOdd(str) {
       if(evenSum > oddSum) return "Even is greater than Odd"
       if(oddSum > evenSum) return "Odd is greater than Even"
       if(oddSum == evenSum) return "Even and Odd are the same"
-    }
+    }ss
