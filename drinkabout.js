@@ -39,4 +39,4 @@ var peopleWithAgeDrink = function(old) {
     else {
       return "drink whisky";
     }
-  };
+  };ss
