@@ -15,4 +15,4 @@ function scoreboard(string) {
     }
   }
     return arr
-  }
+  }ss
