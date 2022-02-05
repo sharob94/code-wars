@@ -24,4 +24,4 @@ function isDivideBy(number, a, b) {
       return false
     }
     // good luck
-  }
+  }ss
