@@ -31,5 +31,5 @@ function bmi(weight, height) {
     }else if(bmi > 30){
       return "Obese"
     }
-    
+    ss
   }
