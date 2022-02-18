@@ -24,4 +24,4 @@ function rentalCarCost(d) {
       return sum
     }
     // Your solution here
-  }
+  }ss
