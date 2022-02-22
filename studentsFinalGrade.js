@@ -8,4 +8,4 @@ function finalGrade (exam, projects) {
       return 75
     }
       return 0// final grade
-  }
+  }ss
