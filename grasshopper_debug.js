@@ -18,15 +18,15 @@ Remember that typically temperatures in the current weather conditions are given
 
 
 
-function weatherInfo (temp) {
-    var celsius = (temp - 32) * (5/9)
-    if (celsius > 0)
-      return (celsius + " is above freezing temperature")
-    else
-      return (celsius + " is freezing temperature")
-  }
-  
-  function convertToCelsius (temperature) {
-    var celsius = (temperature - 32) * (5/9)
-    return temperature
-  }ss
+function weatherInfo(temp) {
+  var celsius = (temp - 32) * (5 / 9)
+  if (celsius > 0)
+    return (celsius + " is above freezing temperature")
+  else
+    return (celsius + " is freezing temperature")
+}
+
+function convertToCelsius(temperature) {
+  var celsius = (temperature - 32) * (5 / 9)
+  return temperature
+}

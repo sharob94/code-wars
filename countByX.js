@@ -17,10 +17,10 @@ given: function countBy(x, n) {
 }
 */
 
-function countBy(x,n){
-    let z =[],
-    for (let i = x; z.length < n; i += x){
-        z.push(i)
-    }
+function countBy(x, n) {
+  let z = [],
+  for (let i = x; z.length < n; i += x) {
+    z.push(i)
+  }
 
-}ss
+}

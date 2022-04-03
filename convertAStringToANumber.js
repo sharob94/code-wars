@@ -22,8 +22,8 @@ Examples
 */
 
 
-var stringToNumber = function(str){
+var stringToNumber = function (str) {
 
-    // put your code here
-    return parseInt(str);
-  }ss
+  // put your code here
+  return parseInt(str);
+}

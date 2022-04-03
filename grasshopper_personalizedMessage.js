@@ -15,12 +15,12 @@ otherwise	'Hello guest'
 
 
 
-function greet (name, owner) {
-    if (name === owner){
-      return 'Hello boss'
-    }
-     else{
-       return 'Hello guest'
-     }
-     // wAdd code here
-   }ss
+function greet(name, owner) {
+  if (name === owner) {
+    return 'Hello boss'
+  }
+  else {
+    return 'Hello guest'
+  }
+  // wAdd code here
+}

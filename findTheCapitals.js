@@ -10,4 +10,4 @@ var capitals = function (word) {
     }
     return array
     // Write your code here
-};
+}; ss

@@ -28,13 +28,13 @@ result - division by zero (refer to the specifications on how to handle this in 
 */
 
 
-function remainder(a, b){
-    if(a<=b){
-      return b%a
-      
-    }else if(a>=b){
-      return a%b
-      
-    }
-     
-   } ss
+function remainder(a, b) {
+  if (a <= b) {
+    return b % a
+
+  } else if (a >= b) {
+    return a % b
+
+  }
+
+}

@@ -29,7 +29,7 @@ function diff(a, b){
     return [...new Set(sortedA.concat(sortedB))].sort()
     }
 
-    /*ss
+    /*
     function diff(a,b){
         sortedA = a.filter(n=>!b.includes(n))  
         sortedB =
