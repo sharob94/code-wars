@@ -4,10 +4,10 @@
 
 //https://www.codewars.com/kata/5a00e05cc374cb34d100000d
 
-const reverseSeq = n =>{
-    const value =[]
-    for(let i = n; n>0; n--){
+const reverseSeq = n => {
+    const value = []
+    for (let i = n; n > 0; n--) {
         value.push(n)
-}
-return value
-}
+    }
+    return value
+}ss

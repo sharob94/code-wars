@@ -15,7 +15,7 @@ https://www.codewars.com/kata/55685cd7ad70877c23000102/train/javascript
 
 function makeNegative(num) {
     // Code?
-   return -Math.abs(num)
+    return -Math.abs(num)
 }
 
 /* Task: Return the given number and make it negative 
@@ -60,4 +60,4 @@ function makeNegative(num){
 
  fuction makeNegative(num){
      return -Math.abs(num)
- } */
+ } */ ss

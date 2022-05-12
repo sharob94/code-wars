@@ -7,22 +7,23 @@
 // console.log(familyMembers)
 
 let user = {
-    name: 'shana' ,
-    age : 27,
+    name: 'shana',
+    age: 27,
     location: 'philly',
     occupation: 'software engineer',
-    duties:[{
-        name:'Jude', Relationship:'brother'},
-    {name:'Rachel', Relationship:'sister'}],
-    login: function(){
+    duties: [{
+        name: 'Jude', Relationship: 'brother'
+    },
+    { name: 'Rachel', Relationship: 'sister' }],
+    login: function () {
         console.log(this.duties)
     },
-    logout: function(){
+    logout: function () {
         console.log('I logged out')
     },
-    logduties:function(){
-        this.duties.forEach(duty=>{
-            console.log(duty.name,duty.Relationship)
+    logduties: function () {
+        this.duties.forEach(duty => {
+            console.log(duty.name, duty.Relationship)
         })
     }
 
@@ -31,4 +32,4 @@ let user = {
 user.login()
 user.logduties()
 
- 
+ss

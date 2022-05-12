@@ -20,13 +20,13 @@ given: function updateLight(current){
 
 
 function updateLight(current) {
-    if (current === 'yellow'){
-      return 'red'
-    }else if(current ==='red'){
-      return 'green'
-    }else{
-      return 'yellow'
-    }
-    //your code here!
-  
-  }ss
+  if (current === 'yellow') {
+    return 'red'
+  } else if (current === 'red') {
+    return 'green'
+  } else {
+    return 'yellow'
+  }
+  //your code here!
+
+}

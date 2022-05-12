@@ -7,6 +7,6 @@ current age of his son (years)
 
 */
 function twiceAsOld(dadYearsOld, sonYearsOld) {
-    return Math.abs (dadYearsOld - 2 *sonYearsOld)
-    // your code here
-  }ss
+  return Math.abs(dadYearsOld - 2 * sonYearsOld)
+  // your code here
+}

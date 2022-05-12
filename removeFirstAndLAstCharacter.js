@@ -8,11 +8,11 @@
 
 
 // given : function removeChar(str){}
-  
 
 
-function removeChar(str){
-    return str.slice(1,-1);
-   //You got this!
-  
-  };
+
+function removeChar(str) {
+    return str.slice(1, -1);
+    //You got this!
+
+}; ss

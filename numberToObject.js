@@ -1,7 +1,7 @@
-function numObj(s){
+function numObj(s) {
   let arr = []
-  
-  for (let i = 0; i < s.length; i++){
+
+  for (let i = 0; i < s.length; i++) {
     let obj = {}
     let letter = s[i].toString()
     obj[letter] = String.fromCharCode(s[i])
@@ -14,3 +14,4 @@ function numObj(s){
 
 //returning an array => making an empty one to begin with and construct in the loop
 //loop in the s array
+ss

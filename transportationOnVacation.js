@@ -15,13 +15,13 @@ Write a code that gives out the total amount for different days(d).
 
 
 function rentalCarCost(d) {
-    let sum = d * 40
-    if(d>=7){
-      return sum - 50
-    }else if(d>=3){
-      return sum - 20
-    }else{
-      return sum
-    }
-    // Your solution here
-  }ss
+  let sum = d * 40
+  if (d >= 7) {
+    return sum - 50
+  } else if (d >= 3) {
+    return sum - 20
+  } else {
+    return sum
+  }
+  // Your solution here
+}
