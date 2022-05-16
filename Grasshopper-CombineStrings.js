@@ -12,6 +12,6 @@ returns:
 
 */
 
-function combineNames(firstName,lastName){
+function combineNames(firstName, lastName) {
     return firstName + " " + lastName
-}
+} aa

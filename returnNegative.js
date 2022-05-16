@@ -18,7 +18,7 @@ function makeNegative(num) {
     return -Math.abs(num)
 }
 
-/* Task: Return the given number and make it negative 
+/* Task: Return the given number and make it negative
 
 
 function makeNegative(num){
@@ -60,4 +60,4 @@ function makeNegative(num){
 
  fuction makeNegative(num){
      return -Math.abs(num)
- } */ ss
+ } */

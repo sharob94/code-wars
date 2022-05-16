@@ -21,7 +21,7 @@ For example:
 
 
 
-function goals (laLigaGoals, copaDelReyGoals, championsLeagueGoals) {
-    return laLigaGoals + copaDelReyGoals + championsLeagueGoals
-    // code goes here
-  }
+function goals(laLigaGoals, copaDelReyGoals, championsLeagueGoals) {
+  return laLigaGoals + copaDelReyGoals + championsLeagueGoals
+  // code goes here
+}

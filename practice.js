@@ -32,4 +32,3 @@ let user = {
 user.login()
 user.logduties()
 
-ss

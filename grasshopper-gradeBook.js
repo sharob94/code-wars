@@ -22,26 +22,26 @@ Tested values are all between 0 and 100. Theres is no need to check for negative
 
 
 
+ss
 
 
 
-
-function getGrade (s1, s2, s3) {
+function getGrade(s1, s2, s3) {
   let total = s1 + s2 + s3
-  let average = total / 3  
-  if(average>=90){
+  let average = total / 3
+  if (average >= 90) {
     return 'A'
-    
-  }else if (average>=80){
+
+  } else if (average >= 80) {
     return 'B'
-    
-  }else if(average >=70 ){
+
+  } else if (average >= 70) {
     return 'C'
-    
-  }else if(average >=60){
+
+  } else if (average >= 60) {
     return 'D'
-  
-}else{
-  return 'F'
-}
+
+  } else {
+    return 'F'
   }
+}

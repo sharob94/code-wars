@@ -26,7 +26,7 @@ Note: base is a non-negative number, factor is a positive number.
 
 
 
-function checkForFactor (base, factor) {
-    return base%factor===0
-    // code here
-  }
+function checkForFactor(base, factor) {
+  return base % factor === 0
+  // code here
+} ss

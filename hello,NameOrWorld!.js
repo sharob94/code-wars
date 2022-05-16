@@ -14,4 +14,4 @@ hello ""       => "Hello, World!" # name is an empty String
 
 function hello(name) {
     return `Hello, ${name ? name[0].toUpperCase() + name.slice(1).toLowerCase() : "World"}!`
-  }
+} ss

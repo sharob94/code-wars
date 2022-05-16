@@ -9,12 +9,12 @@ Return True if yes, False otherwise :)
 */
 
 
-function hero(bullets, dragons){
-    let survive = bullets / 2
-    if(survive>=dragons){
-      return true
-    }else{
-      return false
-    }
-   
+function hero(bullets, dragons) {
+  let survive = bullets / 2
+  if (survive >= dragons) {
+    return true
+  } else {
+    return false
   }
+
+} ss

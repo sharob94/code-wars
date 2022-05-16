@@ -15,6 +15,6 @@ The input will not be 0.
 */
 
 
-function nthEven(n){
+function nthEven(n) {
     return n * 2 - 2
-    }ss
+}

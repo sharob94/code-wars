@@ -13,12 +13,15 @@ You are creating an "Escape the room" game. The first step is to create a hash t
 
 
 var rooms = {
-    room1:{
-      name: 'a', description:'b', completed:'c'},
-     room2:{
-      name: 'a', description:'b', completed:'c'},
-   room3:{
-      name: 'a', description:'b', completed:'c'}
-    
-  
+  room1: {
+    name: 'a', description: 'b', completed: 'c'
+  },
+  room2: {
+    name: 'a', description: 'b', completed: 'c'
+  },
+  room3: {
+    name: 'a', description: 'b', completed: 'c'
   }
+
+
+}ss

@@ -18,11 +18,11 @@ Floats are considered UNeven for this kata.
 
 
 function testEven(n) {
-    if (n%2===0){
-      return true
-      
-    }else{
-      return false
-    }
-      //Your awesome code here!
+  if (n % 2 === 0) {
+    return true
+
+  } else {
+    return false
   }
+  //Your awesome code here!
+} ss

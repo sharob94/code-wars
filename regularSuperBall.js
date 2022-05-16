@@ -3,4 +3,4 @@ class Ball {
     this.ballType = ballType
   }
   // your code goes here
-}; ss
+};

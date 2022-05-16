@@ -7,4 +7,4 @@ function getMissingElement(superImportantArray) {
     }
   }
   return count
-} ss
+}

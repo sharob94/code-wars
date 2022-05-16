@@ -19,11 +19,11 @@ function fixTheMeerkat(arr) {
 
 
 
-
+ss
 
 
 
 function fixTheMeerkat(arr) {
-    return arr.reverse()
-  }
+  return arr.reverse()
+}
 

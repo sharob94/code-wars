@@ -7,4 +7,4 @@ function spongeMeme(sentence) {
   }
   console.log(answer)
   return answer
-} sss
+}

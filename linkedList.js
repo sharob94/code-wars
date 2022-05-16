@@ -1,4 +1,4 @@
-const n1 ={
+const n1 = {
     data: 100
 }
 const n2 = {
@@ -9,23 +9,23 @@ n1.next = n2
 
 console.log(n1)
 
-class Node{
-    constructor(data,next = null){
+class Node {
+    constructor(data, next = null) {
         this.data = data,
-        this.next = next
+            this.next = next
     }
 }
 // intially we have a empty liked list so the head would be null and the size would be 0
-class Linkedlist{
-    constructor(){
+class Linkedlist {
+    constructor() {
         this.head = null,
-        this.size = 0
+            this.size = 0
     }
 }
 // insert the first node
 // creates the head of the linked list. Will push whatever node that was in its place to the right 
 insertFirst(data){
-    this.head = new Node(data,this.head)
+    this.head = new Node(data, this.head)
 }
 
 //insert the last node
@@ -36,18 +36,18 @@ insertLast(data){
 
     // if list is empty then make a head. head and tail would be equal to each other
 
-    if(this.head === null){
+    if (this.head === null) {
         this.head = node
-    }else{
+    } else {
         current = this.head
-        while(current.next){
+        while (current.next) {
             current = current.next
         }
-            current.next = node
+        current.next = node
 
-        }
-     this.size++
     }
+    this.size++
+}
 
 
 // insert at a index
@@ -63,8 +63,8 @@ insertLast(data){
 printListData(){
     let current = this.head
 
-    while(current){
+    while (current) {
         console.log(curret.data)
         current = current.next
     }
-}
+} ss
