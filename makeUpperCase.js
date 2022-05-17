@@ -3,12 +3,13 @@
 // Write a function which converts the input string to uppercase.
 
 function makeUpperCase(str) {
-    // Code here
-  return (str.toUpperCase())}
+  // Code here
+  return (str.toUpperCase())
+}
 
 
-
-/* 
+ss
+/*
 
 How to convert a string to Upper Case
 

@@ -10,4 +10,4 @@ const reverseSeq = n => {
         value.push(n)
     }
     return value
-}ss
+}

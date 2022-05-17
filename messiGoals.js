@@ -19,7 +19,7 @@ Create a fourth variable named totalGoals that stores the sum of all of Messi's 
 
 */
 
-
+ss
 var laLigaGoals = 43
 var championsLeagueGoals = 10
 var copaDelReyGoals = 5

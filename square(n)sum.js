@@ -25,4 +25,4 @@ function squareSum(numbers) {
 
 
 
-} ss
+}

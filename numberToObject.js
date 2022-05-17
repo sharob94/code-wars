@@ -14,4 +14,3 @@ function numObj(s) {
 
 //returning an array => making an empty one to begin with and construct in the loop
 //loop in the s array
-ss
